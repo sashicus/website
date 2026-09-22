@@ -1,0 +1,7 @@
+backups/
+price/
+data/products.json
+public/uploads/products/*
+!public/uploads/products/.gitkeep
+!public/uploads/products/index.html
+src/config.php
